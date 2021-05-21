@@ -1,6 +1,6 @@
 # Projeto Motor de Passo
 
-##Equipe
+# Equipe
 *Leandro
 *Vitor
 *Kleber
