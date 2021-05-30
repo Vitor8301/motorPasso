@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=motorpasso.X
+PROJECTNAME=motorPasso.X
 
 # Active Configuration
 DEFAULTCONF=default
